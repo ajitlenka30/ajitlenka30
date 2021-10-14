@@ -64,7 +64,7 @@
 If you want to chat with me :
 
 <p align="center" >
-<a href="mailto:,ajitlenka30.com">
+<a href="mailto:ajitlenka30@gmail.com">
  <img alt="Gmail" width="130" hight="100" src="https://github.com/ajitlenka30/ajitlenka30/blob/main/assets/icons/gmail.png" />
 </a>
 <a href="https://t.me/HyperNotAjitX97/">
