@@ -68,7 +68,7 @@ If you want to chat with me :
  <img alt="Gmail" width="130" hight="100" src="https://github.com/ajitlenka30/ajitlenka30/blob/main/assets/icons/gmail.png" />
 </a>
 <a href="https://t.me/HyperNotAjitX97/">
-  <img alt="Telegram" width="170" hight="100" src="https://github.com/ajitlenka30/ajirlenka30/blob/main/assets/icons/telegram.png" />
+  <img alt="Telegram" width="170" hight="100" src="https://github.com/ajitlenka30/ajitlenka30/blob/main/assets/icons/telegram.png" />
 </br>
 </br>
 </br>
