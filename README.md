@@ -2,11 +2,11 @@
 <h3 align="left">A Flutter App Developer from India</h3>
 
 # 💫 About Me :-
+<img align="right" alt="Coding" width="400" hight="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <br>🔭 I’m currently working on AOSP<br>
 <br>🌱 I’m currently studying in B.Tech<br>
 <br>👯 I’m looking to collaborate on Open Source Projects<br>
 <br>⚡ Fun fact I am a completely addicted to code<br>
-<img align="right" alt="Coding" width="400" hight="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 # 📱 Social media handles :-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ajitlenka30) 
