@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ajit</h1>
-<h3 align="center">A Flutter App Developer from India</h3>
+<h1 align="left">Hi 👋, I'm Ajit</h1>
+<h3 align="left">A Flutter App Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 # 💫 About Me:
 
-:<br>🔭 I’m currently working on AOSP<br>
+<br>🔭 I’m currently working on AOSP<br>
 <br>🌱 I’m currently studying in B.Tech<br>
 <br>👯 I’m looking to collaborate on Open Source Projects<br>
 <br>⚡ Fun fact I am a completely addicted to code<br>
