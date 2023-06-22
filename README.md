@@ -6,7 +6,8 @@
 <br>🔭 I’m currently working on AOSP<br>
 <br>🌱 I’m currently studying in B.Tech<br>
 <br>👯 I’m looking to collaborate on Open Source Projects<br>
-<br>⚡ Fun fact I am a completely addicted to code<br>
+<br>⚡ Fun fact I am a completely addicted to code and coffee <br>
+<br/>
 
 # 📱 Social media handles :-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ajitlenka30) 
