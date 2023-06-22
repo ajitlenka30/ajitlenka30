@@ -58,4 +58,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=ajitlenka30&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with Simple Badges ( https://badges.pages.dev ) -->
