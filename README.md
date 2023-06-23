@@ -9,7 +9,7 @@
 <br>⚡ Fun fact I am a completely addicted to code and coffee <br>
 <br/>
 
-# 📱 Social media handles :-
+# 📱 Contact Me :-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ajitlenka30) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ajitlenka30) 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat)](https://t.me/ajitlenka30)
