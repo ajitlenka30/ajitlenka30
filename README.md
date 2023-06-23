@@ -9,11 +9,6 @@
 <br>⚡ Fun fact I am a completely addicted to code and coffee <br>
 <br/>
 
-# 📱 Contact Me :-
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://instagram.com/ajitlenka30) 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=for-the-badge)](https://twitter.com/ajitlenka30) 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge)](https://t.me/ajitlenka30)
-
 # 👨‍💻 Languages & frameworks :-
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
@@ -49,10 +44,13 @@
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=for-the-badge)
 
+# 📱 Contact Me :-
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://instagram.com/ajitlenka30) 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=for-the-badge)](https://twitter.com/ajitlenka30) 
+[![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge)](https://t.me/ajitlenka30)
+
 # 📊 GitHub Stats :-
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ajitlenka30&theme=dark&hide_border=false)<br/>
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajitlenka30&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
