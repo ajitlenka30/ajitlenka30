@@ -1,6 +1,9 @@
 <h1 align="left">Hi 👋, I'm Ajit</h1>
 <h3 align="left">A Flutter App Developer from India</h3>
 
+# 👀 Profile Visitors Count :-
+<img src="https://komarev.com/ghpvc/?username=ajilenka30&style=flat-round&color=d2162c&label=VISITORS">
+
 # 💫 About Me :-
 <img align="right" alt="Coding" width="400" hight="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <br>🔭 I’m currently working on music player<br>
@@ -9,7 +12,7 @@
 <br>⚡ Fun fact I am a completely addicted to code and coffee<br>
 <br/>
 
-# 👨‍💻 Languages & frameworks :-
+# 👨‍💻 Languages & Frameworks :-
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
 ![Dart Badge](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff&style=for-the-badge)
@@ -31,7 +34,7 @@
 ![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=for-the-badge)
 ![Telegraph Badge](https://img.shields.io/badge/Telegraph-FAFAFA?logo=telegraph&logoColor=000&style=for-the-badge)
 
-# 🎨 Designing tools :-
+# 🎨 Designing Tools :-
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge)
 ![Adobe Illustrator Badge](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=for-the-badge)
 ![Adobe Lightroom Badge](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?logo=adobelightroom&logoColor=fff&style=for-the-badge)
