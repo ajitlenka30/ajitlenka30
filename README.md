@@ -19,6 +19,7 @@
 ![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=for-the-badge)
 
 # 🌐 Cloud Service :-
 ![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=for-the-badge)
@@ -46,6 +47,7 @@
 ![Arch Linux Badge](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=for-the-badge)
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=for-the-badge)
+![iOS Badge](https://img.shields.io/badge/iOS-000?logo=ios&logoColor=fff&style=for-the-badge)
 
 # 📱 Contact Me :-
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://instagram.com/ajitlenka30) 
@@ -57,7 +59,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajitlenka30&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=ajitlenka30&icon=5&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with Simple Badges ( https://badges.pages.dev ) -->
