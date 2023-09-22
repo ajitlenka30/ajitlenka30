@@ -25,7 +25,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
 
-<h1 align="left">Hi 👋, I'm Ajit</h1>
+<h1 align="left">Hi 👋🏻, I'm Ajit</h1>
 <h3 align="left">A Flutter App Developer from India</h3>
 
 # 👀 Profile Visitors Count 
