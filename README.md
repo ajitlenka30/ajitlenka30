@@ -1,6 +1,3 @@
-<h1 align="left">Hi 👋🏻, I'm Ajit</h1>
-<h3 align="left">A Flutter App Developer from India</h3>
-
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/dadparrot.gif" width="25" height="25"/>
@@ -27,6 +24,9 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
+
+<h1 align="left">Hi 👋🏻, I'm Ajit</h1>
+<h3 align="left">A Flutter App Developer from India</h3>
 
 # 👀 Profile Visitors Count 
 <img src="https://komarev.com/ghpvc/?username=ajilenka30&style=flat-round&color=d2162c&label=VISITORS">
@@ -82,8 +82,8 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge)](https://t.me/ajitlenka30)
 
 # 📊 GitHub Stats 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ajitlenka30&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajitlenka30&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ajitlenka30&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajitlenka30&layout=compact&langs_count=8&theme=nightowl"/>
 
 ---
 <!-- Proudly created with Simple Badges ( https://badges.pages.dev ) -->
