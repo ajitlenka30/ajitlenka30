@@ -1,3 +1,6 @@
+<h1 align="left">Hi 👋🏻, I'm Ajit</h1>
+<h3 align="left">A Flutter App Developer from India</h3>
+
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
@@ -24,9 +27,6 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
-
-<h1 align="left">Hi 👋🏻, I'm Ajit</h1>
-<h3 align="left">A Flutter App Developer from India</h3>
 
 # 👀 Profile Visitors Count 
 <img src="https://komarev.com/ghpvc/?username=ajilenka30&style=flat-round&color=d2162c&label=VISITORS">
