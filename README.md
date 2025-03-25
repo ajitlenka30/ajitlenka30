@@ -48,8 +48,6 @@ A fully automated Jenkins pipeline to build, test, and deploy microservices.
 🔹 **[Bash Scripting for Automation](https://github.com/ajitlenka30/your-repo-name)**
 Automating system tasks and DevOps workflows using Bash scripting.
 
-(*Update repo links above once available!*)
-
 ---
 
 ### 📊 GitHub Stats
