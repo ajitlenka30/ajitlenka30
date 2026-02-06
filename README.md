@@ -9,12 +9,15 @@
 <table align="center">
   <tr>
     <td width="55%" valign="top">
-      <p><b>Hello! I'm Ajit,</b> a seasoned Infrastructure Specialist transitioning into DevSecOps. I specialize in bridging the gap between hardware-level security and cloud-native automation.</p>
+      <p><b>Hello! I'm Ajit,</b> a seasoned Infrastructure Specialist transitioning into DevSecOps. I specialize in bridging the gap between hardware level security and cloud-native automation.</p>
       <ul>
         <li>🛡️ <b>3+ Years Experience</b> in Enterprise Firewalls & Network Security.</li>
         <li>🖥️ Expert in <b>Windows Server</b> (AD, GPO) & <b>Linux</b> (Kernel tuning, Hardening).</li>
         <li>🏗️ Architecting <b>CI/CD Pipelines</b> and <b>Zero Trust</b> infrastructure.</li>
-        <li>🎓 Currently pursuing B.Tech while scaling cloud solutions.</li>
+        <li>🎓 Currently pursuing cloud solutions and automation.</li>
+        <li>☁️ Building secure systems on **AWS | Azure.</li>
+        <li>⚙️ CI/CD pipelines that actually **ship to prod.</li>
+        <li>🧠 Security mindset → Automation → Scale.</li>
       </ul>
     </td>
     <td width="45%" align="center">
